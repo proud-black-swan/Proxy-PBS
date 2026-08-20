@@ -64,5 +64,12 @@ kickstarter.com#Kickstarter_创意众筹
 #[2606:4700:3108::1111]#不死IPv6
 
 
+#链式代理
+by-cm.0-0-0.us.ci#US 链式 n2$https://dongtaiwang.com:dongtaiwang.com@hk.336892.xyz:33550
+
+cloudflare-ech.com#Cloudflare_ECH域名 US 链式 n2$https://dongtaiwang.com:dongtaiwang.com@hk.336892.xyz:33550
+crypto.cloudflare.com#Cloudflare_密码学服务 US 链式 n2$https://dongtaiwang.com:dongtaiwang.com@hk.336892.xyz:33550
+encryptedsni.com#Cloudflare_加密SNI US 链式 n2$https://dongtaiwang.com:dongtaiwang.com@hk.336892.xyz:33550
+
 
 #自定义优选
