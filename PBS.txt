@@ -25,7 +25,7 @@ digitalocean.com#DigitalOcean_云服务
 store.ubi.com#育碧商城
 staticdelivery.nexusmods.com#游戏MOD静态资源
 nexusmods.com#游戏MOD官网
-www.epicgames.com#EpicGames_游戏官网
+#www.epicgames.com#EpicGames_游戏官网
 www.ntu.edu.sg#新加坡南洋理工大学
 tajikistan.mfa.gov.ua#乌克兰外交部塔吉克斯坦
 mfa.gov.ua#乌克兰外交部
