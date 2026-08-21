@@ -3,99 +3,6 @@
 
 #自定义优选
 
-162.159.198.1:443#秋名山优选 | 优选网BestCF.pages.dev
-cf.877774.xyz:443#秋名山优选 | 三网 | cf.877774.xyz
-ct.877774.xyz:443#秋名山优选 | 电信 | ct.877774.xyz
-cu.877774.xyz:443#秋名山优选 | 联通 | cu.877774.xyz
-cmcc.877774.xyz:443#秋名山优选 | 移动 | cmcc.877774.xyz
-asia.877774.xyz:443#秋名山优选 | 亚洲 | asia.877774.xyz
-na.877774.xyz:443#秋名山优选 | 美洲 | na.877774.xyz
-eur.877774.xyz:443#秋名山优选 | 欧洲 | eur.877774.xyz
-162.159.197.1:443#秋名山优选 | 优选网BestCF.pages.dev
-cloudflare.seeck.cn:443#Senflare优选 | 三网 | cloudflare.seeck.cn
-ctcc.cloudflare.seeck.cn#Senflare优选 | 电信 | ctcc.cloudflare.seeck.cn
-cmcc.cloudflare.seeck.cn#Senflare优选 | 移动 | cmcc.cloudflare.seeck.cn
-cucc.cloudflare.seeck.cn#Senflare优选 | 联通 | cucc.cloudflare.seeck.cn
-162.159.198.1:443#乌鸦优选 | 优选网BestCF.pages.dev
-yd.hhhhh.eu.org:443#乌鸦优选 | 移动 | yd.hhhhh.eu.org
-yd.1.hhhhh.eu.org:443#乌鸦优选 | 移动1 | yd.1.hhhhh.eu.org
-yd.2.hhhhh.eu.org:443#乌鸦优选 | 移动2 | yd.2.hhhhh.eu.org
-yd.3.hhhhh.eu.org:443#乌鸦优选 | 移动3 | yd.3.hhhhh.eu.org
-yd.4.hhhhh.eu.org:443#乌鸦优选 | 移动4 | yd.4.hhhhh.eu.org
-yd.5.hhhhh.eu.org:443#乌鸦优选 | 移动5 | yd.5.hhhhh.eu.org
-dx.hhhhh.eu.org:443#乌鸦优选 | 电信 | dx.hhhhh.eu.org
-dx.1.hhhhh.eu.org:443#乌鸦优选 | 电信1 | dx.1.hhhhh.eu.org
-dx.2.hhhhh.eu.org:443#乌鸦优选 | 电信2 | dx.2.hhhhh.eu.org
-dx.3.hhhhh.eu.org:443#乌鸦优选 | 电信3 | dx.3.hhhhh.eu.org
-dx.4.hhhhh.eu.org:443#乌鸦优选 | 电信4 | dx.4.hhhhh.eu.org
-dx.5.hhhhh.eu.org:443#乌鸦优选 | 电信5 | dx.5.hhhhh.eu.org
-lt.hhhhh.eu.org:443#乌鸦优选 | 联通 | lt.hhhhh.eu.org
-lt.1.hhhhh.eu.org:443#乌鸦优选 | 联通1 | lt.1.hhhhh.eu.org
-lt.2.hhhhh.eu.org:443#乌鸦优选 | 联通2 | lt.2.hhhhh.eu.org
-lt.3.hhhhh.eu.org:443#乌鸦优选 | 联通3 | lt.3.hhhhh.eu.org
-lt.4.hhhhh.eu.org:443#乌鸦优选 | 联通4 | lt.4.hhhhh.eu.org
-lt.5.hhhhh.eu.org:443#乌鸦优选 | 联通5 | lt.5.hhhhh.eu.org
-wto.hhhhh.eu.org:443#乌鸦优选 | wto | wto.hhhhh.eu.org
-wto.1.hhhhh.eu.org:443#乌鸦优选 | wto1 | wto.1.hhhhh.eu.org
-wto.2.hhhhh.eu.org:443#乌鸦优选 | wto2 | wto.2.hhhhh.eu.org
-wto.3.hhhhh.eu.org:443#乌鸦优选 | wto3 | wto.3.hhhhh.eu.org
-visasg.hhhhh.eu.org:443#乌鸦优选 | visasg | visasg.hhhhh.eu.org
-openai.hhhhh.eu.org:443#乌鸦优选 | openai | openai.hhhhh.eu.org
-openai.1.hhhhh.eu.org:443#乌鸦优选 | openai1 | openai.1.hhhhh.eu.org
-openai.2.hhhhh.eu.org:443#乌鸦优选 | openai2 | openai.2.hhhhh.eu.org
-sy.hhhhh.eu.org:443#乌鸦优选 | shopify | sy.hhhhh.eu.org
-sy.1.hhhhh.eu.org:443#乌鸦优选 | shopify1 | sy.1.hhhhh.eu.org
-sy.2.hhhhh.eu.org:443#乌鸦优选 | shopify2 | sy.2.hhhhh.eu.org
-bp.hhhhh.eu.org:443#乌鸦优选 | bp | bp.hhhhh.eu.org
-bp.1.hhhhh.eu.org:443#乌鸦优选 | bp1 | bp.1.hhhhh.eu.org
-bp.2.hhhhh.eu.org:443#乌鸦优选 | bp2 | bp.2.hhhhh.eu.org
-bp.3.hhhhh.eu.org:443#乌鸦优选 | bp3 | bp.3.hhhhh.eu.org
-cm.hhhhh.eu.org:443#乌鸦优选 | cm | cm.hhhhh.eu.org
-cm.1.hhhhh.eu.org:443#乌鸦优选 | cm1 | cm.1.hhhhh.eu.org
-cm.2.hhhhh.eu.org:443#乌鸦优选 | cm2 | cm.2.hhhhh.eu.org
-cm.3.hhhhh.eu.org:443#乌鸦优选 | cm3 | cm.3.hhhhh.eu.org
-qms.hhhhh.eu.org:443#乌鸦优选 | qms | qms.hhhhh.eu.org
-qms.1.hhhhh.eu.org:443#乌鸦优选 | qms1 | qms.1.hhhhh.eu.org
-qms.2.hhhhh.eu.org:443#乌鸦优选 | qms2 | qms.2.hhhhh.eu.org
-qms.3.hhhhh.eu.org:443#乌鸦优选 | qms3 | qms.3.hhhhh.eu.org
-1111111.hhhhh.eu.org:443#乌鸦优选 | 未知线路 | 1111111.hhhhh.eu.org
-090.hhhhh.eu.org:443#乌鸦优选 | 未知线路 | 090.hhhhh.eu.org
-162.159.197.1:443#乌鸦优选 | 优选网BestCF.pages.dev
-162.159.198.1:443#IRCF优选 | 优选网BestCF.pages.dev
-ipv4.ircf.space:443#IRCF优选 | Universal IPv4 | ipv4.ircf.space
-cf.ircf.space:443#IRCF优选 | Universal CF | cf.ircf.space
-mci.ircf.space:443#IRCF优选 | MCI | mci.ircf.space
-mkh.ircf.space:443#IRCF优选 | TCI | mkh.ircf.space
-rtl.ircf.space:443#IRCF优选 | RighTel | rtl.ircf.space
-hwb.ircf.space:443#IRCF优选 | Hi-Web | hwb.ircf.space
-ast.ircf.space:443#IRCF优选 | Asiatech | ast.ircf.space
-sht.ircf.space:443#IRCF优选 | Shatel | sht.ircf.space
-prs.ircf.space:443#IRCF优选 | Pars Online | prs.ircf.space
-mbt.ircf.space:443#IRCF优选 | Mobinnet | mbt.ircf.space
-ask.ircf.space:443#IRCF优选 | ASK | ask.ircf.space
-rsp.ircf.space:443#IRCF优选 | Respina | rsp.ircf.space
-afn.ircf.space:443#IRCF优选 | Afranet | afn.ircf.space
-ztl.ircf.space:443#IRCF优选 | Zitel | ztl.ircf.space
-psm.ircf.space:443#IRCF优选 | Pishgaman | psm.ircf.space
-arx.ircf.space:443#IRCF优选 | Arax | arx.ircf.space
-smt.ircf.space:443#IRCF优选 | Samantel | smt.ircf.space
-shm.ircf.space:443#IRCF优选 | Shatel Mobile | shm.ircf.space
-fnv.ircf.space:443#IRCF优选 | Fanava | fnv.ircf.space
-dbn.ircf.space:443#IRCF优选 | DidehbanNet | dbn.ircf.space
-apt.ircf.space:443#IRCF优选 | Aptel | apt.ircf.space
-fnp.ircf.space:443#IRCF优选 | Fanap | fnp.ircf.space
-ryn.ircf.space:443#IRCF优选 | Raynet | ryn.ircf.space
-sbn.ircf.space:443#IRCF优选 | Sabanet | sbn.ircf.space
-ptk.ircf.space:443#IRCF优选 | Petyak | ptk.ircf.space
-atc.ircf.space:443#IRCF优选 | Asre Telecom | atc.ircf.space
-ipv6.ircf.space:443#IRCF优选 | Universal IPv6 | ipv6.ircf.space
-udp.ircf.space:443#IRCF优选 | Universal UDP | udp.ircf.space
-ts.ircf.space:443#IRCF优选 | Universal TS | ts.ircf.space
-mtn.ircf.space:443#IRCF优选 | Irancell | mtn.ircf.space
-162.159.197.1:443#IRCF优选 | 优选网BestCF.pages.dev
-
-
-162.159.197.1:8443#EDT导航优选域名 | BestCF.pages.dev
 162.159.198.1:443#官方入口 | MASQUE
 162.159.197.1:443#官方入口 | ZeroTrust
 162.159.193.1:443#官方入口 | WireGuard
@@ -176,4 +83,4 @@ cu.877774.xyz:443#按运营商 | 联通QMS
 cu.cloudflare.byoip.top:443#按运营商 | 联通Byoip
 cmcc.877774.xyz:443#按运营商 | 移动QMS
 cm.cloudflare.byoip.top:443#按运营商 | 移动Byoip
-162.159.198.1:8443#优选域名 | 8-10 | 分享免费优选网BestCF.pages.dev
+
