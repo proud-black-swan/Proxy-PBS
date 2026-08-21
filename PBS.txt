@@ -25,12 +25,6 @@ www.visa.com.tw#visa_中国台湾
 www.visa.com.au#visa_澳大利亚
 
 
-#www.speedtest.net#Ookla_测速网
-#nexusmods.com#游戏MOD官网
-#www.epicgames.com#EpicGames_游戏官网
-#tajikistan.mfa.gov.ua#乌克兰外交部塔吉克斯坦
-#mfa.gov.ua#乌克兰外交部
-#www.glassdoor.com#Glassdoor_企业点评
 
 www.wto.org#WTO世贸组织
 china.mfa.gov.ua#乌克兰驻华
@@ -38,12 +32,16 @@ gur.gov.ua#乌克兰国防部
 www.gov.se#瑞典政府门户
 fbi.gov#美国联邦调查局
 www.police.uk#英国警务
+tajikistan.mfa.gov.ua#乌克兰外交部塔吉克斯坦
+mfa.gov.ua#乌克兰外交部
 
 openai.com#OpenAI官网
+www.speedtest.net#Ookla_测速网
 digitalocean.com#DigitalOcean_云服务
 store.ubi.com#育碧商城
 www.shopify.com#Shopify_电商
 kickstarter.com#Kickstarter_创意众筹
+www.glassdoor.com#Glassdoor_企业点评
 dshield.org#Dshield安全防护
 iucn.org#IUCN自然保护联盟
 cni.org#CNI网络信息组织
@@ -58,6 +56,8 @@ cdnjs.com:443#CDNJS官方域名
 static.cloudflareinsights.com:443#Analytics官方
 www.tpg.com#TPG金融
 www.wilshire.com#Wilshire金融
+nexusmods.com#游戏MOD官网
+www.epicgames.com#EpicGames_游戏官网
 godotengine.org#Godot开源游戏引擎
 staticdelivery.nexusmods.com#游戏MOD静态资源
 
@@ -145,16 +145,9 @@ cf.877774.xyz#大佬维护 | QMS
 cf.090227.xyz#大佬维护 | CMLiu
 cf.3666888.xyz#大佬维护 | HuTao
 
-cf.cf.3666888.xyz
-cf1s.cf.3666888.xyz
-avido.cf.3666888.xyz
 www.galgamex.net
 www.fastsoso.cn
 bbs.alipansou.com
-vip.cf.3666888.xyz
-uac.cf.3666888.xyz
-eteaf.cf.3666888.xyz
 www.mfyx.cn
-coke.cf.3666888.xyz
 cdn.204910.best
 cf.godns.cc
