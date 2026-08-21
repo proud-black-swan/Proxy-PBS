@@ -2,8 +2,8 @@ cloudflare-ech.com#Cloudflare官方ECH
 cloudflare.dev#Cloudflare官方开发者
 crypto.cloudflare.com#Cloudflare加密服务
 research.cloudflare.com#Cloudflare官方研究团队
-encryptedsni.com#Cloudflare加密SNI
 
+#encryptedsni.com#Cloudflare加密SNI
 #www.visa.com#visa_全球
 #www.visa.cn#visa_中国
 #www.visa.co.jp#visa_日本
