@@ -2,6 +2,7 @@ cloudflare-ech.com#Cloudflare官方ECH
 cloudflare.dev#Cloudflare官方开发者
 research.cloudflare.com#Cloudflare官方研究团队
 crypto.cloudflare.com#Cloudflare秘密学服务
+#encryptedsni.com#Cloudflare加密SNI
 
 dshield.org#Dshield安全防护
 iucn.org#IUCN自然保护联盟
@@ -15,7 +16,7 @@ umy.ac.id#穆罕默迪亚大学
 su.edu.ph#西利曼大学
 uet.edu.pk#拉合尔工程技术大学
 
-#encryptedsni.com#Cloudflare加密SNI
+
 #www.visa.com#visa_全球
 #www.visa.cn#visa_中国
 #www.visa.co.jp#visa_日本
