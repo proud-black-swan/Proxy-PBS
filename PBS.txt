@@ -3,9 +3,9 @@ crypto.cloudflare.com#Cloudflare_密码学服务
 encryptedsni.com#Cloudflare_加密SNI
 
 #www.visa.com#visa_全球
-visa.com#visa_国际
 #www.visa.cn#visa_中国
 #www.visa.co.jp#visa_日本
+visa.com#visa_国际
 www.visaeurope.ch#visa_瑞士
 www.visasoutheasteurope.com#visa_欧洲
 myanmar.visa.com#visa_缅甸
