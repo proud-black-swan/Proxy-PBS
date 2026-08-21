@@ -23,6 +23,7 @@ www.visa.com.au#visa_澳大利亚
 #www.epicgames.com#EpicGames_游戏官网
 #tajikistan.mfa.gov.ua#乌克兰外交部塔吉克斯坦
 #mfa.gov.ua#乌克兰外交部
+#www.glassdoor.com#Glassdoor_企业点评
 
 openai.com#OpenAI
 www.udemy.com#Udemy_在线学习
@@ -34,7 +35,6 @@ www.ntu.edu.sg#新加坡南洋理工大学
 gur.gov.ua#乌克兰国防部
 www.wto.org#世界贸易组织
 www.gov.se#瑞典政府门户
-www.glassdoor.com#Glassdoor_企业点评
 fbi.gov#美国联邦调查局
 www.shopify.com#Shopify_电商
 kickstarter.com#Kickstarter_创意众筹
