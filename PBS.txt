@@ -24,11 +24,11 @@ www.udacity.com#Udacity_在线教育
 digitalocean.com#DigitalOcean_云服务
 store.ubi.com#育碧商城
 staticdelivery.nexusmods.com#游戏MOD静态资源
-nexusmods.com#游戏MOD官网
+#nexusmods.com#游戏MOD官网
 #www.epicgames.com#EpicGames_游戏官网
 www.ntu.edu.sg#新加坡南洋理工大学
 #tajikistan.mfa.gov.ua#乌克兰外交部塔吉克斯坦
-mfa.gov.ua#乌克兰外交部
+#mfa.gov.ua#乌克兰外交部
 gur.gov.ua#乌克兰国防部
 www.wto.org#世界贸易组织
 www.gov.se#瑞典政府门户
