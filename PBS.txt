@@ -1,4 +1,4 @@
-cloudflare-ech.com#Cloudflare_ECH域名
+cloudflare-ech.com
 crypto.cloudflare.com#Cloudflare_密码学服务
 encryptedsni.com#Cloudflare_加密SNI
 
