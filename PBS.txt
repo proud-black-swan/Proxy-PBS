@@ -49,7 +49,7 @@ job.com#Job招聘求职
 tinyurl.com#Tinyurl短链服务
 www.britannica.com#不列颠百科全书
 www.prometheus.io#Prometheus监控系统
-www.kyocera.com#Kyocera集团官网
+www.kyocera.com#京瓷官网
 celestia.org#Celestia模块化区块链
 cdnjs.com#CDNJS官方域名
 static.cloudflareinsights.com#Analytics官方
