@@ -10,12 +10,10 @@ pages.dev:443#Pages官方域名
 encryptedsni.com#Cloudflare加密SNI
 engage.cloudflareclient.com#WARP官方域名
 
-
-#www.visa.com#visa_全球
-#www.visa.cn#visa_中国
-#www.visa.co.jp#visa_日本
-
 visa.com#visa_国际
+www.visa.com#visa_全球
+www.visa.cn#visa_中国
+www.visa.co.jp#visa_日本
 www.visaeurope.ch#visa_瑞士
 www.visasoutheasteurope.com#visa_欧洲
 myanmar.visa.com#visa_缅甸
@@ -25,9 +23,6 @@ www.visa.com.br#visa_巴西
 www.visa.com.sg#visa_新加坡
 www.visa.com.tw#visa_中国台湾
 www.visa.com.au#visa_澳大利亚
-
-www.tpg.com#金融域名 | TPG
-www.wilshire.com#金融域名 | Wilshire
 
 
 #www.speedtest.net#Ookla_测速网
@@ -61,6 +56,8 @@ www.kyocera.com#Kyocera集团官网
 celestia.org#Celestia模块化区块链
 cdnjs.com:443#CDNJS官方域名
 static.cloudflareinsights.com:443#Analytics官方
+www.tpg.com#TPG金融
+www.wilshire.com#Wilshire金融
 godotengine.org#Godot开源游戏引擎
 staticdelivery.nexusmods.com#游戏MOD静态资源
 
@@ -90,12 +87,11 @@ columbia.edu#哥伦比亚大学
 104.26.0.0#不死IP_104.26.0.0
 104.27.0.0#不死IP_104.27.0.0
 188.114.96.0#不死IP_188.114.96.0
-
-#108.162.192.0#不死IP_108.162.192.0
-#162.159.0.0#不死IP_162.159.0.0
-#198.41.192.0#不死IP_198.41.192.0
-#198.41.200.0#不死IP_198.41.200.0
-#198.41.208.0#不死IP_198.41.208.0
+108.162.192.0#不死IP_108.162.192.0
+162.159.0.0#不死IP_162.159.0.0
+198.41.192.0#不死IP_198.41.192.0
+198.41.200.0#不死IP_198.41.200.0
+198.41.208.0#不死IP_198.41.208.0
 
 
 #[2606:4700:4700::6810:abcd]#不死IPv6
