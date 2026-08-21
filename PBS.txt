@@ -1,23 +1,120 @@
+cloudflare-ech.com#Cloudflare官方ECH
+cloudflare.dev#Cloudflare官方开发者
+research.cloudflare.com#Cloudflare官方研究团队
+crypto.cloudflare.com#Cloudflare秘密学服务
+cloudflare-eth.com#Web3官方域名
+cloudflare.dev#Developers官方域名
+cloudflare.net#Business官方域名
+r2.dev:443#R2官方域名
+pages.dev:443#Pages官方域名
+encryptedsni.com#Cloudflare加密SNI
+engage.cloudflareclient.com#WARP官方域名
+
+
+
+#www.visa.com#visa_全球
+#www.visa.cn#visa_中国
+#www.visa.co.jp#visa_日本
+
+visa.com#visa_国际
+www.visaeurope.ch#visa_瑞士
+www.visasoutheasteurope.com#visa_欧洲
+myanmar.visa.com#visa_缅甸
+usa.visa.com#visa_美国
+www.visakorea.com#visa_韩国 
+www.visa.com.br#visa_巴西
+www.visa.com.sg#visa_新加坡
+www.visa.com.tw#visa_中国台湾
+www.visa.com.au#visa_澳大利亚
+
+
+
+#www.speedtest.net#Ookla_测速网
+#nexusmods.com#游戏MOD官网
+#www.epicgames.com#EpicGames_游戏官网
+#tajikistan.mfa.gov.ua#乌克兰外交部塔吉克斯坦
+#mfa.gov.ua#乌克兰外交部
+#www.glassdoor.com#Glassdoor_企业点评
+
+gur.gov.ua#乌克兰国防部
+www.wto.org#世界贸易组织
+www.gov.se#瑞典政府门户
+fbi.gov#美国联邦调查局
+
+openai.com#OpenAI
+digitalocean.com#DigitalOcean_云服务
+store.ubi.com#育碧商城
+www.shopify.com#Shopify_电商
+kickstarter.com#Kickstarter_创意众筹
+staticdelivery.nexusmods.com#游戏MOD静态资源
+
+dshield.org#Dshield安全防护
+iucn.org#IUCN自然保护联盟
+cni.org#CNI网络信息组织
+annals.org#Annals内科医学期刊
+job.com#Job招聘求职
+tinyurl.com#Tinyurl短链服务
+www.britannica.com#不列颠百科全书
+godotengine.org#Godot开源游戏引擎
+www.prometheus.io#Prometheus监控系统
+www.kyocera.com#Kyocera集团官网
+celestia.org#Celestia模块化区块链
+cdnjs.com:443#CDNJS官方域名
+static.cloudflareinsights.com:443#Analytics官方
+
+cm.edu.kg#CM科技大学
+www.udemy.com#Udemy_在线学习
+www.udacity.com#Udacity_在线教育
+www.researchgate.net:443#ResearchGate教育
+for.edu.sg#新加坡教育工具
+umy.ac.id#穆罕默迪亚大学
+su.edu.ph#西利曼大学
+www.ntu.edu.sg#新加坡南洋理工大学
+uet.edu.pk#拉合尔工程技术大学
+ln.edu.hk#岭南大学
+www.ox.ac.uk#牛津大学
+columbia.edu#哥伦比亚大学
+
+
+104.16.0.0#不死IP_104.16.0.0
+104.17.0.0#不死IP_104.17.0.0
+104.18.0.0#不死IP_104.18.0.0
+104.19.0.0#不死IP_104.19.0.0
+104.20.0.0#不死IP_104.20.0.0
+104.21.0.0#不死IP_104.21.0.0
+104.24.0.0#不死IP_104.24.0.0
+104.25.0.0#不死IP_104.25.0.0
+104.26.0.0#不死IP_104.26.0.0
+104.27.0.0#不死IP_104.27.0.0
+188.114.96.0#不死IP_188.114.96.0
+
+#108.162.192.0#不死IP_108.162.192.0
+#162.159.0.0#不死IP_162.159.0.0
+#198.41.192.0#不死IP_198.41.192.0
+#198.41.200.0#不死IP_198.41.200.0
+#198.41.208.0#不死IP_198.41.208.0
+
+
+#[2606:4700:4700::6810:abcd]#不死IPv6
+#[2606:4700:4700::ac43:1234]#不死IPv6
+#[2606:4700:3030::6812:abcd]#不死IPv6
+#[2606:4700:3030::ac43:1234]#不死IPv6
+#[2606:4700:3033::6810:1]#不死IPv6
+#[2606:4700:3001::1003]#不死IPv6
+#[2606:4700:3108::1111]#不死IPv6
+
+
+#自定义优选
 
 
 
 #自定义优选
 
-162.159.198.1:443#官方入口 | MASQUE
-162.159.197.1:443#官方入口 | ZeroTrust
-162.159.193.1:443#官方入口 | WireGuard
-store.ubi.com:443#企业域名 | 育碧商城
-serviceshub.samsclub.com:443#企业域名 | 山姆会员
-www.allianz.com:443#企业域名 | 安联集团
 www.decathlon.com:443#企业域名 | 迪卡侬
 www.asda.com:443#企业域名 | 阿斯达
-www.shopify.com:443#企业域名 | Shopify
 cookiebot.com:443#企业域名 | Cookiebot
-bluehost.com:443#企业域名 | BlueHost
-nexusmods.com:443#企业域名 | NexusMods
-glassdoor.com:443#企业域名 | Glassdoor
-www.jimdo.com:443#企业域名 | Jimdo
-openai.com:443#企业域名 | OpenAI
+
+
 www.sage.com:443#更多选择 | Sage
 www.speedtest.net:443#更多选择 | Ookla
 investor.apple.com:443#更多选择 | Apple
@@ -48,32 +145,24 @@ deepin.org:443#更多选择 | 深度系统
 www.police.uk:443#更多选择 | 英国警务
 www.leics.police.uk:443#更多选择 | 莱斯特郡
 china.mfa.gov.ua:443#更多选择 | 乌克兰驻华
-www.visa.cn:443#金融域名 | VISA中国
-visa.com:443#金融域名 | VISA美国
+
 www.tpg.com:443#金融域名 | TPG
 www.wilshire.com:443#金融域名 | Wilshire
-engage.cloudflareclient.com:443#官方域名 | WARP
-cloudflare-eth.com:443#官方域名 | Web3
-cloudflare.dev:443#官方域名 | Developers
-cloudflare.net:443#官方域名 | Business
-r2.dev:443#官方域名 | R2
-pages.dev:443#官方域名 | Pages
-cdnjs.com:443#官方域名 | CDNJS
-cloudflare-ech.com:443#官方域名 | ECH
-static.cloudflareinsights.com:443#官方域名 | Analytics
-ln.edu.hk:443#教育域名 | 岭南大学
-www.ntu.edu.sg:443#教育域名 | 南洋理工
-www.ox.ac.uk:443#教育域名 | 牛津大学
-columbia.edu:443#教育域名 | 哥伦比亚
-www.udacity.com:443#教育域名 | Udacity
-for.edu.sg:443#教育域名 | ForEduSG
-www.researchgate.net:443#教育域名 | ResearchGate
+
+
+
+
+
+
+
+
+
+
 saas.sin.fan:443#大佬维护 | MIYU
 cloudflare.182682.xyz:443#大佬维护 | WeTest
 skk.moe:443#大佬维护 | Sukka
 bestcf.030101.xyz:443#大佬维护 | MingYu
 cf.877774.xyz:443#大佬维护 | QMS
-yg1.ygkkk.dpdns.org:443#大佬维护 | YGKKK
 cf.090227.xyz:443#大佬维护 | CMLiu
 cf.3666888.xyz:443#大佬维护 | HuTao
 cf.tencentapp.cn:443#大佬维护 | KTFF
