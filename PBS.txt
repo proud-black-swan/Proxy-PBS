@@ -5,8 +5,8 @@ crypto.cloudflare.com#Cloudflare秘密学服务
 cloudflare-eth.com#Web3官方域名
 developers.cloudflare.com#Cloudflare官方文档
 cloudflare.net#Business官方域名
-r2.dev:443#R2官方域名
-pages.dev:443#Pages官方域名
+r2.dev#R2官方域名
+pages.dev#Pages官方域名
 encryptedsni.com#Cloudflare加密SNI
 engage.cloudflareclient.com#WARP官方域名
 
@@ -51,8 +51,8 @@ www.britannica.com#不列颠百科全书
 www.prometheus.io#Prometheus监控系统
 www.kyocera.com#Kyocera集团官网
 celestia.org#Celestia模块化区块链
-cdnjs.com:443#CDNJS官方域名
-static.cloudflareinsights.com:443#Analytics官方
+cdnjs.com#CDNJS官方域名
+static.cloudflareinsights.com#Analytics官方
 www.tpg.com#TPG金融
 www.wilshire.com#Wilshire金融
 nexusmods.com#游戏MOD官网
@@ -63,7 +63,7 @@ staticdelivery.nexusmods.com#游戏MOD静态资源
 cm.edu.kg#CM科技大学
 www.udemy.com#Udemy_在线学习
 www.udacity.com#Udacity_在线教育
-www.researchgate.net:443#ResearchGate教育
+www.researchgate.net#ResearchGate教育
 for.edu.sg#新加坡教育工具
 umy.ac.id#穆罕默迪亚大学
 su.edu.ph#西利曼大学
@@ -74,9 +74,9 @@ www.ox.ac.uk#牛津大学
 columbia.edu#哥伦比亚大学
 
 
-www.decathlon.com:443#企业域名 | 迪卡侬
-www.asda.com:443#企业域名 | 阿斯达
-cookiebot.com:443#企业域名 | Cookiebot
+www.decathlon.com#企业域名 | 迪卡侬
+www.asda.com#企业域名 | 阿斯达
+cookiebot.com#企业域名 | Cookiebot
 www.sage.com#更多选择 | Sage
 investor.apple.com#更多选择 | Apple
 markmonitor.com#更多选择 | MarkMonitor
