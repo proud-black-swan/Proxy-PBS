@@ -1,7 +1,7 @@
 cloudflare-ech.com#Cloudflare官方ECH
 cloudflare.dev#Cloudflare官方开发者
 research.cloudflare.com#Cloudflare官方研究团队
-crypto.cloudflare.com#Cloudflare加密服务
+crypto.cloudflare.com#Cloudflare秘密学服务
 
 dshield.org#Dshield安全防护
 iucn.org#IUCN自然保护联盟
