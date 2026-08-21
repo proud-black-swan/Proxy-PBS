@@ -44,7 +44,7 @@ www.gov.se#瑞典政府门户
 fbi.gov#美国联邦调查局
 www.police.uk#英国警务
 
-openai.com#OpenAI
+openai.com#OpenAI官网
 digitalocean.com#DigitalOcean_云服务
 store.ubi.com#育碧商城
 www.shopify.com#Shopify_电商
