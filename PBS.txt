@@ -1,14 +1,14 @@
-cloudflare-ech.com#Cloudflare官方ECH
-cloudflare-eth.com#Cloudflare官方Web3
+cloudflare-ech.com#Cloudflare官方ECH域名
+cloudflare-eth.com#Cloudflare官方Web3域名
 cloudflare.dev#Cloudflare官方开发平台
 cloudflare.net#Cloudflare官方Business域名
 research.cloudflare.com#Cloudflare官方研究团队
 crypto.cloudflare.com#Cloudflare密码学服务
 developers.cloudflare.com#Cloudflare官方文档
-r2.dev#R2官方域名
-pages.dev#Pages官方域名
+r2.dev#Cloudflare官方R2域名
+pages.dev#Cloudflare官方Pages域名
 encryptedsni.com#Cloudflare加密SNI
-engage.cloudflareclient.com#WARP官方域名
+engage.cloudflareclient.com#Cloudflare官方WARP域名
 
 
 visa.com#visa_国际
