@@ -78,6 +78,7 @@ columbia.edu#哥伦比亚大学
 www.decathlon.com#企业域名 | 迪卡侬
 www.asda.com#企业域名 | 阿斯达
 cookiebot.com#企业域名 | Cookiebot
+www.jimdo.com:443#企业域名 | Jimdo
 www.sage.com#更多选择 | Sage
 investor.apple.com#更多选择 | Apple
 markmonitor.com#更多选择 | MarkMonitor
