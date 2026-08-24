@@ -75,10 +75,12 @@ www.ox.ac.uk#牛津大学
 columbia.edu#哥伦比亚大学
 
 
+serviceshub.samsclub.com#企业域名 | 山姆会员
 www.decathlon.com#企业域名 | 迪卡侬
 www.asda.com#企业域名 | 阿斯达
 cookiebot.com#企业域名 | Cookiebot
-www.jimdo.com:443#企业域名 | Jimdo
+www.jimdo.com#企业域名 | Jimdo
+bluehost.com#企业域名 | BlueHost
 www.sage.com#更多选择 | Sage
 investor.apple.com#更多选择 | Apple
 markmonitor.com#更多选择 | MarkMonitor
