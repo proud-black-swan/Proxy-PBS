@@ -81,6 +81,7 @@ cookiebot.com#企业域名 | Cookiebot
 www.sage.com#更多选择 | Sage
 investor.apple.com#更多选择 | Apple
 markmonitor.com#更多选择 | MarkMonitor
+store.epicgames.com:443#更多选择 | Epicgames
 mycareer.verizon.com#更多选择 | Verizon
 onetrust.com#更多选择 | OneTrust
 www.affirm.com#更多选择 | Affirm
