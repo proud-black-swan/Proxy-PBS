@@ -144,11 +144,17 @@ cf.3666888.xyz#大佬维护 | HuTao
 
 
 #自定义优选
+spring.io
+saas.sin.fan
+www.vmware.com
+constitution.congress.gov
+guide.for.edu.sg
 www.galgamex.net
 www.fastsoso.cn
 bbs.alipansou.com
 www.mfyx.cn
 cdn.204910.best
+cdn.cf.3666888.xyz
 
 104.com.tw
 1password.com
