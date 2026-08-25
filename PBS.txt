@@ -61,7 +61,6 @@ www.epicgames.com#EpicGames_游戏官网
 godotengine.org#Godot开源游戏引擎
 staticdelivery.nexusmods.com#游戏MOD静态资源
 
-cm.edu.kg#CM科技大学
 www.udemy.com#Udemy_在线学习
 www.udacity.com#Udacity_在线教育
 www.researchgate.net#ResearchGate教育
@@ -104,6 +103,7 @@ www.hongkongairport.com#香江机场
 deepin.org#深度系统
 www.leics.police.uk#莱斯特郡
 
+cm.edu.kg#CM科技大学
 saas.sin.fan#大佬维护 | MIYU
 cloudflare.182682.xyz#大佬维护 | WeTest
 skk.moe#大佬维护 | Sukka
@@ -111,12 +111,6 @@ bestcf.030101.xyz#大佬维护 | MingYu
 cf.877774.xyz#大佬维护 | QMS
 cf.090227.xyz#大佬维护 | CMLiu
 cf.3666888.xyz#大佬维护 | HuTao
-
-www.galgamex.net
-www.fastsoso.cn
-bbs.alipansou.com
-www.mfyx.cn
-cdn.204910.best
 
 
 
@@ -150,6 +144,12 @@ cdn.204910.best
 
 
 #自定义优选
+www.galgamex.net
+www.fastsoso.cn
+bbs.alipansou.com
+www.mfyx.cn
+cdn.204910.best
+
 104.com.tw
 1password.com
 1xbet.com
