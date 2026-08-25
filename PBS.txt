@@ -32,13 +32,13 @@ gur.gov.ua#乌克兰国防部
 www.gov.se#瑞典政府门户
 fbi.gov#美国联邦调查局
 www.police.uk#英国警务
-tajikistan.mfa.gov.ua#乌克兰外交部塔吉克斯坦
 mfa.gov.ua#乌克兰外交部
+tajikistan.mfa.gov.ua#乌克兰外交部塔吉克斯坦
 
 openai.com#OpenAI
 www.speedtest.net#Ookla_测速网
 digitalocean.com#DigitalOcean_云服务
-store.ubi.com#育碧商城
+store.ubi.com#Ubisoft_育碧商城
 www.shopify.com#Shopify_电商
 kickstarter.com#Kickstarter_创意众筹
 www.glassdoor.com#Glassdoor_企业点评
@@ -75,37 +75,34 @@ www.ox.ac.uk#牛津大学
 columbia.edu#哥伦比亚大学
 
 
-serviceshub.samsclub.com#企业域名 | 山姆会员
-www.decathlon.com#企业域名 | 迪卡侬
-www.asda.com#企业域名 | 阿斯达
-cookiebot.com#企业域名 | Cookiebot
-www.jimdo.com#企业域名 | Jimdo
-bluehost.com#企业域名 | BlueHost
-www.sage.com#更多选择 | Sage
-investor.apple.com#更多选择 | Apple
-markmonitor.com#更多选择 | MarkMonitor
-store.epicgames.com:443#更多选择 | Epicgames
-mycareer.verizon.com#更多选择 | Verizon
-onetrust.com#更多选择 | OneTrust
-www.affirm.com#更多选择 | Affirm
-www.zendesk.com#更多选择 | Zendesk
-www.doordash.com#更多选择 | DoorDash
-ringcentral.com#更多选择 | RingCentral
-chrono24.com#更多选择 | Chrono24
-www.mskcc.org#更多选择 | MSKCC
-cdn.jsdelivr.net#更多选择 | jsDelivr
-www.broadcom.com#更多选择 | 博通
-www.nestle.com#更多选择 | 雀巢
-homecare.stryker.com#更多选择 | 史赛克
-www.emerson.com#更多选择 | 艾默生
-visit.honeywell.com#更多选择 | 霍尼韦尔
-polestar.com#更多选择 | 极星汽车
-auctions.ihg.com.cn#更多选择 | 洲际酒店
-woodsbagot.com#更多选择 | 伍兹贝格
-www.transunion.hk#更多选择 | 香江环联
-www.hongkongairport.com#更多选择 | 香江机场
-deepin.org#更多选择 | 深度系统
-www.leics.police.uk#更多选择 | 莱斯特郡
+serviceshub.samsclub.com#山姆会员
+www.decathlon.com#迪卡侬
+www.asda.com#阿斯达
+cookiebot.com#Cookiebot
+www.jimdo.com#Jimdo
+bluehost.com#BlueHost
+www.sage.com#Sage
+investor.apple.com#Apple投资者关系
+markmonitor.com#MarkMonitor
+store.epicgames.com#Epicgames
+mycareer.verizon.com#Verizon
+onetrust.com#OneTrust
+www.affirm.com#Affirm
+www.zendesk.com#Zendesk
+www.doordash.com#DoorDash
+ringcentral.com#RingCentral
+chrono24.com#Chrono24
+www.mskcc.org#MSKCC
+www.broadcom.com#博通
+www.nestle.com#雀巢
+www.emerson.com#艾默生
+visit.honeywell.com#霍尼韦尔
+polestar.com#极星汽车
+auctions.ihg.com.cn#洲际酒店
+www.transunion.hk#香江环联
+www.hongkongairport.com#香江机场
+deepin.org#深度系统
+www.leics.police.uk#莱斯特郡
 
 saas.sin.fan#大佬维护 | MIYU
 cloudflare.182682.xyz#大佬维护 | WeTest
