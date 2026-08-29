@@ -329,7 +329,6 @@ npmjs.com
 noodlemagazine.com
 oaistatic.com
 nzherald.co.nz
-openai.com
 one2car.com
 ondigitalocean.com
 orangeclickmedia.com
