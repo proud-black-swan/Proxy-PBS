@@ -14,7 +14,6 @@ static.cloudflareinsights.com#Cloudflare官方Analytics域名
 
 visa.com#visa_国际
 www.visa.com#visa_全球
-www.visa.cn#visa_中国
 www.visa.co.jp#visa_日本
 www.visaeurope.ch#visa_瑞士
 www.visasoutheasteurope.com#visa_欧洲
@@ -25,6 +24,7 @@ www.visa.com.br#visa_巴西
 www.visa.com.sg#visa_新加坡
 www.visa.com.tw#visa_中国台湾
 www.visa.com.au#visa_澳大利亚
+#www.visa.cn#visa_中国
 
 
 www.wto.org#WTO世贸组织
