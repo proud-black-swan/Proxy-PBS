@@ -9,7 +9,7 @@ pages.dev#Cloudflare官方Pages域名
 encryptedsni.com#Cloudflare加密SNI
 engage.cloudflareclient.com#Cloudflare官方WARP域名
 static.cloudflareinsights.com#Cloudflare官方Analytics域名
-#crypto.cloudflare.com#Cloudflare官方密码学服务
+crypto.cloudflare.com#Cloudflare官方密码学服务
 
 www.visa.cn#visa_中国
 visa.com#visa_国际
@@ -36,12 +36,6 @@ www.visa.com.au#visa_澳大利亚
 104.26.0.0#不死IP_104.26.0.0
 104.27.0.0#不死IP_104.27.0.0
 188.114.96.0#不死IP_188.114.96.0
-#108.162.192.0#不死IP_108.162.192.0
-#162.159.0.0#不死IP_162.159.0.0
-#198.41.192.0#不死IP_198.41.192.0
-#198.41.200.0#不死IP_198.41.200.0
-#198.41.208.0#不死IP_198.41.208.0
-
 
 [2606:4700:4700::6810:abcd]#不死IPv6-1
 [2606:4700:4700::ac43:1234]#不死IPv6-2
