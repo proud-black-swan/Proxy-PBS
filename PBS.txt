@@ -780,6 +780,8 @@ www.trumpinternationalrealty.com:443#US 电信优选[www.trumpinternationalrealt
 190.93.245.40:443#US 电信优选[199ms]
 104.18.240.29:443#US 电信优选[200ms]
 190.93.246.249:443#US 电信优选[200ms]
+104.16.94.131:443#US 电信优选[172ms 30.00Mbps]
+
 
 
 # =====================
